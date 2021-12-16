@@ -1,13 +1,17 @@
-### Olá! Sou Caio Eduardo Lobo 👋
+### Hey, there! I'm Caio Eduardo Lobo 👋
+
+- 🔭 I’m currently studying Computer Engineering at IFPB-CG
+- 📖 I’m currently learning Machine Learning and Web Development
+- 💻 I've some experience on Automation Testing using Selenium
 
 <!--
 **caioedlobo/caioedlobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying Computer Engineering at IFPB
-- 🌱 I’m currently learning Machine Learning and Web Development
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently studying Computer Engineering at IFPB-CG
+- 📖 I’m currently learning Machine Learning and Web Development
+- 💻 I've some experience on Automation Testing using Selenium
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
