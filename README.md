@@ -1,8 +1,7 @@
 ### Hey, there! I'm Caio Eduardo Lobo 👋
 
-- 🔭 I’m currently studying Computer Engineering at IFPB-CG
-- 📖 I’m currently learning Machine Learning and Web Development
-- 💻 I've some experience on Automation Testing using Selenium
+- 🔭 I have a Bachelor's degree in Computer Engineering at IFPB-CG
+- 📖 I'm a Java developer using the Spring Boot framework.
 
 <!--
 **caioedlobo/caioedlobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
