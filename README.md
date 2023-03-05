@@ -35,12 +35,6 @@ I have experience with technologies such as React.js, Node.js, and Spring Boot, 
 
 I have knowledge in **Java**, Python, HTML, CSS, Javascript, Selenium, **Maven**, **Spring Boot**, **React.j**s, Node.js,**SQL**, IntelliJ IDE, **Git**, Github, RabbitMQ, Kafka, and Docker.
 
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@caioedlobo">
-        <img width="330em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caioedlobo&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
-    </a>
-</div>
-
 My main skills include back-end development with Java and Spring Boot, Spring MVC, Spring Data, planning and developing structures for monolithic and microservice REST APIs, unit and integration testing, and maintenance of monolithic software based on microservices.
 
 ---
