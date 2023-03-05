@@ -1,4 +1,4 @@
-<details closed>
+<details open>
     
 <h1 align="center"> Caio Lobo </h1>
 
